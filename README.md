@@ -1,6 +1,7 @@
 # RollaBall
 
 ## Aim:
+To Roll a Ball using C# program in unity .
 
 ## Algorithm:
 
@@ -44,7 +45,7 @@ Double click the PlayerController file and type the coding
 
 ## Program:
 ```
-DEVELOPED BY :KRISHNA PRAKAASH D M
+DEVELOPED BY :Parshwanath M
 REG-NO: 212221230052
 ```
 
